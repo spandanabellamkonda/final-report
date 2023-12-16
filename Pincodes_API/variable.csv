@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\controllers\PincodeController.java,com.pincodes_api.controllers.PincodeController,getOnePin/1[int],val,1
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\controllers\PincodeController.java,com.pincodes_api.controllers.PincodeController,getOnePin/1[int],pin,1
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\controllers\PincodeController.java,com.pincodes_api.controllers.PincodeController,getOnePin/1[int],e,0
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\controllers\PincodeController.java,com.pincodes_api.controllers.PincodeController,intro/0,map,3
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\PincodesApiApplication.java,com.pincodes_api.PincodesApiApplication,main/1[java.lang.String[]],args,1
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\services\PincodeService.java,com.pincodes_api.services.PincodeService,getOne/1[int],pin,1
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\db\pincodes.java,com.pincodes_api.db.pincodes,setState/1[java.lang.String],state,2
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\db\pincodes.java,com.pincodes_api.db.pincodes,setPincode/1[int],pincode,2
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\db\pincodes.java,com.pincodes_api.db.pincodes,"pincodes/3[int,java.lang.String,java.lang.String]",pincode,2
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\db\pincodes.java,com.pincodes_api.db.pincodes,"pincodes/3[int,java.lang.String,java.lang.String]",district,2
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\db\pincodes.java,com.pincodes_api.db.pincodes,"pincodes/3[int,java.lang.String,java.lang.String]",state,2
+C:\projects\Pincodes_API\src\main\java\com\pincodes_api\db\pincodes.java,com.pincodes_api.db.pincodes,setDistrict/1[java.lang.String],district,2

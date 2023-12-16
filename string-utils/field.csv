@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+C:\projects\string-utils\src\main\java\org\dew\sutil\AES.java,org.dew.sutil.AES,decrypt/1[java.lang.String],SALT,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\AES.java,org.dew.sutil.AES,decrypt/1[java.lang.String],INIT_VECTOR,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\AES.java,org.dew.sutil.AES,decrypt/1[java.lang.String],SECRET_KEY,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\AES.java,org.dew.sutil.AES,encrypt/1[java.lang.String],SALT,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\AES.java,org.dew.sutil.AES,encrypt/1[java.lang.String],INIT_VECTOR,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\AES.java,org.dew.sutil.AES,encrypt/1[java.lang.String],SECRET_KEY,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\SUtil.java,org.dew.sutil.SUtil,buildSearchLikeFilter/1[java.lang.String],EXCLUDE_FROM_SEARCH_TOKENIZATION,1
+C:\projects\string-utils\src\main\java\org\dew\sutil\SUtil.java,org.dew.sutil.SUtil,searchTokenization/1[java.lang.String],EXCLUDE_FROM_SEARCH_TOKENIZATION,1
